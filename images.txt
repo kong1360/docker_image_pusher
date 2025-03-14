@@ -1,9 +1,9 @@
-nginx
+#nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-rancher/rancher:v2.10.3
-rancher/rancher:v2.8.5
-rabbitmq:management
+#rancher/rancher:v2.10.3
+#rancher/rancher:v2.8.5
+#rabbitmq:management

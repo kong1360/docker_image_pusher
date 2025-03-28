@@ -7,3 +7,4 @@
 #rancher/rancher:v2.10.3
 #rancher/rancher:v2.8.5
 #rabbitmq:management
+logstash:7.16.2

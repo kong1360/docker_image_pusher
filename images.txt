@@ -8,4 +8,5 @@
 #rancher/rancher:v2.8.5
 #rabbitmq:management
 #logstash:7.16.2
-mysql:8.0.44
+#mysql:8.0.44
+rancher/rancher:v2.11.3

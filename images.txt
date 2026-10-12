@@ -15,4 +15,7 @@
 #--platform=linux/arm64 flashcatcloud/categraf:v0.5.15
 #--platform=linux/arm64 victoriametrics/victoria-metrics:v1.152.0
 #--platform=linux/arm64 flashcatcloud/nightingale:9.1.1
-
+flashcatcloud/categraf:v0.5.15
+victoriametrics/victoria-metrics:v1.152.0
+flashcatcloud/nightingale:9.1.1
+redis:7.4.9

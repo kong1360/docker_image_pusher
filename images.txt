@@ -8,14 +8,14 @@
 #rancher/rancher:v2.8.5
 #rabbitmq:management
 #logstash:7.16.2
-#mysql:8.0.44
+mysql:8.0.46
 #rancher/rancher:v2.11.3
 #vllm/vllm-openai:v0.21.0
 #--platform=linux/arm64 mysql:8.0.46
 #--platform=linux/arm64 flashcatcloud/categraf:v0.5.15
 #--platform=linux/arm64 victoriametrics/victoria-metrics:v1.152.0
 #--platform=linux/arm64 flashcatcloud/nightingale:9.1.1
-flashcatcloud/categraf:v0.5.15
-victoriametrics/victoria-metrics:v1.152.0
-flashcatcloud/nightingale:9.1.1
-redis:7.4.9
+#flashcatcloud/categraf:v0.5.15
+#victoriametrics/victoria-metrics:v1.152.0
+#flashcatcloud/nightingale:9.1.1
+#redis:7.4.9
